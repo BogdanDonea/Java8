@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * This is the main method. From here you can run all the methods written in other classes.

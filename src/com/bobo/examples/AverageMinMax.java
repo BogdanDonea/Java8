@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  *  11. Write pseudo code that will perform the following.

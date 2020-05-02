@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 6. Input the dimensions of a rectangle and display area and perimeter

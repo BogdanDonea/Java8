@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 10. Read number n and print the first n numbers in Fibonacci sequence.

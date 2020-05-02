@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 5. Display all the prime numbers lower than a given number

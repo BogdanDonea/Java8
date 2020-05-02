@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  *  1. Calculate the sum of the first 100 numbers higher than 0

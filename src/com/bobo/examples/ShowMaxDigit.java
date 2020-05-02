@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 3. Display the max digit from a number. Read the number from keyboard

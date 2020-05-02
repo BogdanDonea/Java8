@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 4. Check if a number is palindrom( e.g palindrom 1221, 34143)

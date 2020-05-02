@@ -1,4 +1,4 @@
-package com.bobo.Examples;
+package com.bobo.examples;
 
 /**
  * 9. Input 2 values:  start  and  finish, then display the numbers from start to finish
